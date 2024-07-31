@@ -1,3 +1,3 @@
-Sistema de Registro
+<h1>Sistema de Registro</h1>
 
-estado en : desarrollo
+estado del proyecto: en desarrollo
